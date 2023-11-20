@@ -1,0 +1,6 @@
+Package: curl
+Feature: winssl
+Architecture: x86-windows
+Multi-Arch: same
+Description: Legacy name for schannel
+Status: install ok installed
